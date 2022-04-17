@@ -1,6 +1,6 @@
 # grayscale
 
-grayscale.py is a module for work with image as an array. LZW compression and decompression included.
+grayscale.py is a module for work with image as an array. LZW compression and decompression of black&white image included.
 
 ## Usage
 
